@@ -2,7 +2,9 @@
 
 ## General / Misc. commands about Git
 Help: `git help`
+
 Get the version of Git: `git --version`
+
 Show folder content: `ls -la`
 ``
 
